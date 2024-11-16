@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Blood Scratch';
+    src: url('fonts/BloodScratchPersonalUse.ttf');
+}
+
+.button {
+    -fx-font-family: 'Blood Scratch';
+    -fx-font-size: 18px; /* Adjust the font size as needed */
+}
+
+.buttonbackground{
+	-fx-background-color:
+}
+.gameOver-label {
+       -fx-background-color: white;
+     }
