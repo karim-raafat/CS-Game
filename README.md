@@ -16,7 +16,7 @@ A Java-based tower defense game inspired by the popular anime "Attack on Titan."
 - **Programming Language**: Java
 - **GUI Framework**: JavaFX
 - **State Management**: Custom logic for game state and progression
-- **Tools**: IntelliJ IDEA, Maven
+- **Tools**: IntelliJ IDEA
 
 ## How to Play
 
